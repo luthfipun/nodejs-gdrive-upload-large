@@ -1,0 +1,7 @@
+{
+  "name": "nodejs-gdrive-api-resumable-large-file",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Luthfi Abdul Azis <luthfieabdulazis@gmail.com>",
+  "license": "MIT"
+}
