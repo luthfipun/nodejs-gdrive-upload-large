@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Luthfi Abdul Azis <luthfieabdulazis@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^92.0.0",
+    "request": "^2.88.2"
+  }
 }
